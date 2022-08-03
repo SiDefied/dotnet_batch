@@ -26,7 +26,7 @@ namespace StringOperations
         public static void concat(string s1,string s2)
         {
             string concatstring = "";
-            concatstring = s1+s2;
+            concatstring = string.Concat(s1,s2);
             Console.WriteLine("The strings after using concat : " + concatstring+"\n");
         }
     }
