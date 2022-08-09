@@ -1,0 +1,11 @@
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\bin\Debug\NewWindowsform.exe.config
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\bin\Debug\NewWindowsform.exe
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\bin\Debug\NewWindowsform.pdb
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\obj\Debug\NewWindowsform.csproj.AssemblyReference.cache
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\obj\Debug\NewWindowsform.csproj.SuggestedBindingRedirects.cache
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\obj\Debug\NewWindowsform.Form1.resources
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\obj\Debug\NewWindowsform.Properties.Resources.resources
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\obj\Debug\NewWindowsform.csproj.GenerateResource.cache
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\obj\Debug\NewWindowsform.csproj.CoreCompileInputs.cache
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\obj\Debug\NewWindowsform.exe
+C:\Users\shivtej.deshmukh\source\repos\NewWindowsform\NewWindowsform\obj\Debug\NewWindowsform.pdb
