@@ -35,12 +35,20 @@ namespace DataStructures
             arrList.AddRange(myarray);
             int maxnumber=0;
 
-            for (int i = 0; i < arrList.Count; i++)
+            // for (int i = 0; i < arrList.Count; i++)
+            // {
+            //     int element =(int)arrList[i];
+            //     if (element>maxnumber)
+            //     {
+            //         maxnumber = element;
+            //     }
+            // }
+
+            foreach (int element in arrList)
             {
-                int element =(int)arrList[i];
-                if (element>maxnumber)
+                if(element>maxnumber)
                 {
-                    maxnumber = element;
+                    maxnumber=element;
                 }
             }
             Console.WriteLine("Using ArrayList");
