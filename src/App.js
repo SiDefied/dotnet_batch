@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+import logo from './icons8-github.svg';
 import './App.css';
+import Car from './Car';
 
 function App() {
   return (
@@ -7,18 +8,26 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welcome to "myreactapp" this is edited text.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/SiDefied"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Open Github
         </a>
       </header>
+
+      <AppChild name="Shivtej"/>
     </div>
+  );
+}
+function AppChild(props)
+{
+  return(
+    <span>My name is {props.name} and my car is {Car.props}</span>
   );
 }
 
